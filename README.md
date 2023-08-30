@@ -51,5 +51,5 @@ python util_about.py
 
 I used this option.
 ```
-# CORI MILLER 
+
 
